@@ -6,7 +6,7 @@ import time
 import itertools
 import jax.numpy as jnp
 '''
-# wow
+# wowsa
 import os
 os.environ['PATH'] += ':/Library/TeX/texbin'
 plt.rcParams['text.usetex'] = True
